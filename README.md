@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently looking for a 3-month internship beginning April 24
-- 🌱 I’m currently learning Sage X3 ERP
+
 - 📫 How to reach me: ahmdhrere@gmail.com
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hourani963&layout=compact&theme=github_dark)-->
 
