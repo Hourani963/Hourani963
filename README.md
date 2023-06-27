@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ahmdhrere@gmail.com
-- Building a startUp for 3dprint you can see my work and support me on https://nozzel.fr 
+- Check out my e-commerce website for amazing 3D printed objects : https://nozzel.fr 🚀
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hourani963&layout=compact&theme=github_dark)-->
 
 
