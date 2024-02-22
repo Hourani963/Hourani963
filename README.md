@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ahmdhrere@gmail.com
-- Check out my e-commerce website for amazing 3D printed objects : https://nozzel.fr 🚀
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hourani963&layout=compact&theme=github_dark)-->
 
 
